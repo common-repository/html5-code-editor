@@ -1,0 +1,66 @@
+#iframeResult{
+     margin-bottom: 1.75em;
+    width: 100%;
+    vertical-align: middle;
+    border: 1px solid #d1d1d1;
+    background: #f7f7f7;
+    height: 300px;
+    font-family: calibri;
+}
+.headerText{
+	background: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px; 
+    font-family: calibri;
+}
+.headerCon{
+	overflow:auto;
+}
+#textareaCode{
+	height: 300px;
+	font-family: calibri; 
+	width: 100%;
+}
+.codeform{
+	margin:0px;
+	display:none;
+}
+.seeResult{
+	margin-top: 10px;
+}
+#iframewrapper{
+	font-family: calibri;
+}
+#hearder1 code{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+#hearder1 span{
+	color: red;
+}
+.pastecode{
+	font-weight: bold;
+	font-size: 20px;
+}
+.pastecode code{
+	font-weight: bold;
+	font-size: 20px;
+	color: red;
+}
+#hearder1{
+	text-align: center;
+	margin-top: 10px !important;
+}
+.contenthtml{
+	padding-top: 10px;
+}
+.descp{
+	text-align: center;
+	font-weight: bold;
+}
+.descp code {
+	color: red;
+}
